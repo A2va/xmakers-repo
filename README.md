@@ -1,0 +1,1 @@
+Packages repository for the [xmake-rs](https://github.com/A2va/xmake-rs) test suite.
