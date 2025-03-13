@@ -1,7 +1,7 @@
 package("xmrs-bar")
     set_description("Test package for the xmake-rs test suite")
     set_urls("https://github.com/A2va/xmakers-repo.git")
-    add_versions("0.1", "c43b7f50043dc0fa1409eaf4db521a2450b2663c")
+    add_versions("0.1", "6ee2ec5724f6a57ede17071d9e2f8099af44b7dd")
 
     add_deps("xmrs-foo")
 
